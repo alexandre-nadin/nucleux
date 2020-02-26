@@ -1,0 +1,3 @@
+[submodule "local/slash"]
+	path = local/slash
+	url = git@github.com:alexandre-nadin/slash.git
